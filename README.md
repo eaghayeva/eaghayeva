@@ -1,6 +1,6 @@
 [![MasterHead](https://www.bespokesoftwaredevelopment.com/blog/wp-content/uploads/2022/05/software-engineer-joke1-1-905x411.jpg)](https://eaghayeva.io)
 <h1 align="center">Hi 👋🏻, I'm Emiliya</h1>
-<h3 align="center">💻 A passionate Front End developer</h3>
+<h3 align="center">💻 A passionate Front End Developer</h3>
 <img align="right" alt ="Coding" width = "400" src ="https://img.freepik.com/premium-vector/girl-coding-with-laptop-illustration_418302-2384.jpg?w=826">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eaghayeva&label=Profile%20views&color=0e75b6&style=flat" alt="eaghayeva" /> </p>
