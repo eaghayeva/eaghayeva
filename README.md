@@ -4,8 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eaghayeva&label=Profile%20views&color=0e75b6&style=flat" alt="eaghayeva" /> </p>
 
-- 🌱 I’m currently learning **Node**
-
+- 💞️ Eat(); Sleep(); Code(); Repeat();
+- 👀 I'm interested in software development and design.
+- 🌱 I’m currently learning **Python**
+- 💬 I speak English, Russian, Azerbaijani, Turkish.
 - 📧 E-mail **ag.emiliya@gmail.com**
 
 <h3 align="left">LinkedIn</h3>
