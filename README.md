@@ -1,5 +1,5 @@
-<h1 align="right">Hi there, I'm Emiliya <img width = "50" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" alt="eaghayeva" /> </h1> 
-<h3 align="right">💻 A passionate Front End Developer</h3>
+<h1 align="left">Hi there, I'm Emiliya <img width = "50" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" alt="eaghayeva" /> </h1> 
+<h3 align="left">💻 A passionate Front End Developer</h3>
 <img align="right" alt ="Coding" width = "400" src ="https://img.freepik.com/premium-vector/girl-coding-with-laptop-illustration_418302-2384.jpg?w=826">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eaghayeva&label=Profile%20views&color=0e75b6&style=flat" alt="eaghayeva" /> </p>
